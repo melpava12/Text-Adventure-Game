@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pip install windows-curses)",
+      "Bash(python generate_flowchart.py)"
+    ]
+  }
+}
